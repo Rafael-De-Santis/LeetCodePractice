@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 # ignore all.txt files
 *.txt
 *.ipynb_checkpoints/
+=======
+#ignorestuff
+*.ipynb_checkpoints
+>>>>>>> TestTEmp
